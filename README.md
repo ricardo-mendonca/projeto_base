@@ -50,5 +50,5 @@
   - [x] Baixar o projeto
   - [x] alterar o nome da pasta caso queira
   - [x] rodar o comando "npm install"
-  - [x] rodar o comando npm 
+  - [x] rodar o comando npm start
 
